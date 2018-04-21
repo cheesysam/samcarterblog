@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Carter Blog</title>
+    <link>https://s3.eu-west-2.amazonaws.com/samcarterblog/</link>
+    <description>Recent content on Sam Carter Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 21 Apr 2018 17:11:24 +0100</lastBuildDate>
+    
+	<atom:link href="https://s3.eu-west-2.amazonaws.com/samcarterblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://s3.eu-west-2.amazonaws.com/samcarterblog/posts/hello/</link>
+      <pubDate>Sat, 21 Apr 2018 17:11:24 +0100</pubDate>
+      
+      <guid>https://s3.eu-west-2.amazonaws.com/samcarterblog/posts/hello/</guid>
+      <description>hello</description>
+    </item>
+    
+  </channel>
+</rss>
