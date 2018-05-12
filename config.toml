@@ -1,4 +1,4 @@
-baseURL = "https://s3.eu-west-2.amazonaws.com/samcarterblog/"
+baseURL = ""
 languageCode = "en-uk"
 title = "Sam Carter Blog"
 theme="sam"
