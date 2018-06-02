@@ -2,3 +2,20 @@ baseURL = ""
 languageCode = "en-uk"
 title = "Sam Carter Blog"
 theme="sam"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "writing"
+
+[[params.mainMenu]]
+    link = "/eyes"
+    text = "eyes"
+
+[[params.mainMenu]]
+    link = "/yoga"
+    text = "yoga"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "about"
+
