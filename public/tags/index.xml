@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sam Carter Blog</title>
-    <link>http://d27j66pmjudaqa.cloudfront.net/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Sam Carter Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     
-	<atom:link href="http://d27j66pmjudaqa.cloudfront.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

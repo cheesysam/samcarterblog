@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sam Carter Blog</title>
-    <link>http://d27j66pmjudaqa.cloudfront.net/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Sam Carter Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 01 May 2018 20:50:18 +0100</lastBuildDate>
     
-	<atom:link href="http://d27j66pmjudaqa.cloudfront.net/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Own Philosophy</title>
-      <link>http://d27j66pmjudaqa.cloudfront.net/posts/my-own-philosopy/</link>
+      <link>/posts/my-own-philosopy/</link>
       <pubDate>Tue, 01 May 2018 20:50:18 +0100</pubDate>
       
-      <guid>http://d27j66pmjudaqa.cloudfront.net/posts/my-own-philosopy/</guid>
+      <guid>/posts/my-own-philosopy/</guid>
       <description>I don&amp;rsquo;t think I&amp;rsquo;ve ever had a proper philosophy. Not one of my own. I&amp;rsquo;ve had fleeting infatuations with the philosophy of others, but never more than that. And a philosophy which can be consumed emphatically is quickly found by someone who is looking.</description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>http://d27j66pmjudaqa.cloudfront.net/posts/hello/</link>
+      <link>/posts/hello/</link>
       <pubDate>Sat, 21 Apr 2018 17:11:24 +0100</pubDate>
       
-      <guid>http://d27j66pmjudaqa.cloudfront.net/posts/hello/</guid>
+      <guid>/posts/hello/</guid>
       <description>hello</description>
     </item>
     

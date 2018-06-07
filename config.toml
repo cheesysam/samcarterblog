@@ -2,6 +2,7 @@ baseURL = ""
 languageCode = "en-uk"
 title = "Sam Carter Blog"
 theme="sam"
+googleAnalytics = "UA-120276662-1"
 
 [[params.mainMenu]]
     link = "/posts"
