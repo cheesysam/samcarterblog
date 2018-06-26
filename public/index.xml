@@ -2,150 +2,159 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam Carter Blog</title>
-    <link>/</link>
+    <link>http://d27j66pmjudaqa.cloudfront.net/</link>
     <description>Recent content on Sam Carter Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 25 May 2018 23:13:38 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jun 2018 21:29:52 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://d27j66pmjudaqa.cloudfront.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Granddad</title>
+      <link>http://d27j66pmjudaqa.cloudfront.net/posts/granddad/</link>
+      <pubDate>Tue, 26 Jun 2018 21:29:52 +0100</pubDate>
+      
+      <guid>http://d27j66pmjudaqa.cloudfront.net/posts/granddad/</guid>
+      <description>There was no tragedy in Granddad&amp;rsquo;s death. No shock in it&amp;rsquo;s happening, not was anybody anything but impressed by his ability to live in his own home until such an old age. It happened over the course of about 6 weeks. The lung cancer diagnosis, followed by infection. For a period of time it was considered he would have radiotherapy, but that decision was reversed when quickly became worse. I saw him twice during that time.</description>
+    </item>
+    
+    <item>
+      <title>Robbie</title>
+      <link>http://d27j66pmjudaqa.cloudfront.net/posts/robbie/</link>
+      <pubDate>Sat, 16 Jun 2018 21:29:27 +0100</pubDate>
+      
+      <guid>http://d27j66pmjudaqa.cloudfront.net/posts/robbie/</guid>
+      <description>To open the 2018 World Cup, Russia hired Robbie Williams to perform at the ceremony. During the broadcast he gave the camera a cheeky middle finger. In the USA Fox News had to apologise to it&amp;rsquo;s viewers for streaming this atrocity live. In the UK we published the picture on the front page of our newspapers.</description>
+    </item>
+    
+    <item>
       <title>Nude May 2018</title>
-      <link>/eyes/nude-may-2018/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/eyes/nude-may-2018/</link>
       <pubDate>Fri, 25 May 2018 23:13:38 +0100</pubDate>
       
-      <guid>/eyes/nude-may-2018/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/eyes/nude-may-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Art Early 2018</title>
-      <link>/eyes/art-early2018/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/eyes/art-early2018/</link>
       <pubDate>Mon, 21 May 2018 20:49:05 +0100</pubDate>
       
-      <guid>/eyes/art-early2018/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/eyes/art-early2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christ Church Meadow</title>
-      <link>/eyes/christ-church-meadow/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/eyes/christ-church-meadow/</link>
       <pubDate>Fri, 18 May 2018 20:58:01 +0100</pubDate>
       
-      <guid>/eyes/christ-church-meadow/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/eyes/christ-church-meadow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/about/</link>
       <pubDate>Fri, 18 May 2018 20:50:18 +0100</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/about/</guid>
       <description>This is my site where I put things I&amp;rsquo;ve made.
 sam.w.carter@gmail.com</description>
     </item>
     
     <item>
       <title>My Own Philosophy</title>
-      <link>/posts/my-own-philosopy/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/posts/my-own-philosopy/</link>
       <pubDate>Tue, 01 May 2018 20:50:18 +0100</pubDate>
       
-      <guid>/posts/my-own-philosopy/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/posts/my-own-philosopy/</guid>
       <description>I don&amp;rsquo;t think I&amp;rsquo;ve ever had a proper philosophy. Not one of my own. I&amp;rsquo;ve had fleeting infatuations with the philosophy of others, but never more than that. And a philosophy which can be consumed emphatically is quickly found by someone who is looking.</description>
     </item>
     
     <item>
-      <title>Hello</title>
-      <link>/posts/hello/</link>
-      <pubDate>Sat, 21 Apr 2018 17:11:24 +0100</pubDate>
-      
-      <guid>/posts/hello/</guid>
-      <description>hello</description>
-    </item>
-    
-    <item>
       <title>Fitness</title>
-      <link>/yoga/fitness/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/fitness/</link>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/fitness/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/fitness/</guid>
       <description>Southsea Fitness Festival Tomorrow I&amp;rsquo;ll be taking the stage at one of the Summer&amp;rsquo;s regular events here in Portsmouth. This will be the third year running that the Southsea Fitness Festival has set up on Castle Field. It is a collection of all the local gyms, sports centres, and independent sport classes, promoting their services. With Portsmouth Yoga I head there each year to help out talking to people about yoga and getting involved with whatever activities are going on.</description>
     </item>
     
     <item>
       <title>Running is Meditation - Meditation is Running</title>
-      <link>/yoga/running-is-meditation-is-running/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/running-is-meditation-is-running/</link>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/running-is-meditation-is-running/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/running-is-meditation-is-running/</guid>
       <description>Running I run a lot at the moment. 5 or 6 days a week. It&amp;rsquo;s a relatively recent pursuit of mine but I&amp;rsquo;ve really started getting into it. This September I&amp;rsquo;ll be running my first marathon which is what all this training is in aid of.
 At the moment I&amp;rsquo;m doing between 8-22km runs depending on the day, and a few hours after the run I&amp;rsquo;ll often work with a physical asana practice to reset the legs and get me in shape ready for the next days running.</description>
     </item>
     
     <item>
       <title>A to Z of Yoga : B is for Brahmacharya</title>
-      <link>/yoga/b-is-for-brahmacharya/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/b-is-for-brahmacharya/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/b-is-for-brahmacharya/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/b-is-for-brahmacharya/</guid>
       <description>Here we go. Brahmacharya Brahmacharya is one of the Yamas. Brahmacharya is roughly translated as the &amp;lsquo;right use of energy&amp;rsquo;. An effort to conserve energy for the higher purpose of meditation. If you can&amp;rsquo;t work out where this is going yet then I&amp;rsquo;ve spent a little while coming up with some modern alternative translations. Which one do you reckon is most succinct?  Don&amp;rsquo;t put it about. Stop being a slag.</description>
     </item>
     
     <item>
       <title>A bunch of ladies going mmmmmmmm, how hard can it be?</title>
-      <link>/yoga/a-bunch-of-ladies-going-mmmmm/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/a-bunch-of-ladies-going-mmmmm/</link>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/a-bunch-of-ladies-going-mmmmm/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/a-bunch-of-ladies-going-mmmmm/</guid>
       <description>In my notes for this post, I had the basic idea and how I was going to approach it. Get rid of the misconceptions around yoga such as the common &amp;lsquo;group of middle aged women talking about the moon&amp;rsquo;* and give the first-timer an idea of what they might expect at their first class. But all my lines of thought into what a yoga class is, fell apart as I worked on them.</description>
     </item>
     
     <item>
       <title>The Most Powerful Force in the Universe</title>
-      <link>/yoga/the-most-powerful-force-in-the-universe/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/the-most-powerful-force-in-the-universe/</link>
       <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/the-most-powerful-force-in-the-universe/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/the-most-powerful-force-in-the-universe/</guid>
       <description>Also Known As&amp;hellip;&amp;lsquo;Your Mind&amp;rsquo; It&amp;rsquo;s a phenomenal force, isn&amp;rsquo;t it? Every great work of art, every documented scientific process, and every shit TV series, are all works of someones mind (or collection of minds). But What Else? The effects of anxiety, stress, and depression can lead to poor physical health. The reverse is also true. By practicing techniques such as meditation to improve mood, physical health can improve or be maintained.</description>
     </item>
     
     <item>
       <title>I Believe in Reincarnation (and so do you) </title>
-      <link>/yoga/i-believe-in-reincarnation/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/i-believe-in-reincarnation/</link>
       <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/i-believe-in-reincarnation/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/i-believe-in-reincarnation/</guid>
       <description>The Same Page Okay, okay. First we have to align our understanding of what reincarnation means. How about every time a creature (human or otherwise) dies, their soul, which they’ve developed over their lifetime, is suddenly free of it’s physical constraints and whisks itself over to another physical body which is not yet occupied by a soul? Thus that original union of body and soul is lost, but the soul part carries on in a new body to continue it’s development?</description>
     </item>
     
     <item>
       <title>Yoga and Other Subcultures</title>
-      <link>/yoga/yoga-and-other-subcultures/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/yoga-and-other-subcultures/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/yoga-and-other-subcultures/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/yoga-and-other-subcultures/</guid>
       <description>Once Upon a Time A decade ago in Birmingham, there was what I saw as quite a thriving rock subculture. No doubt there are those who were there a decade before that claiming to see the watering down of their own. Who doesn’t think that about their own existence, that theirs was the time to be a part of it?! But by the time I was ready to leave the city, ‘my’ part of the subculture had run it’s course.</description>
     </item>
     
     <item>
       <title>Everyones Made of the Same Shit</title>
-      <link>/yoga/everyones-made-of-the-same-shit/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/everyones-made-of-the-same-shit/</link>
       <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/everyones-made-of-the-same-shit/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/everyones-made-of-the-same-shit/</guid>
       <description>The Brahman and the Atman One of the fundamental teachings of yoga is the Atman and the Brahman. The Brahman is the whole manifestation of the universe and everything it contains. We are part of that system, and the part of the Brahman we have within ourselves is called the Atman. Yoga is the union of our Atman to the whole Brahman.
 There is no difference between my composition as well as it&amp;rsquo;s belonging to the whole, and your composition, and your belonging to the whole.</description>
     </item>
     
     <item>
       <title>Yoga Teacher Phrases</title>
-      <link>/yoga/yoga-teacher-phrases/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/yoga-teacher-phrases/</link>
       <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/yoga-teacher-phrases/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/yoga-teacher-phrases/</guid>
       <description>Here are some phrases I&amp;rsquo;ve witnessed from yoga teachers over the years! I&amp;rsquo;m just as guilty as the next teacher on some of these. Have you ever heard anything like these in class?
 &amp;lsquo;Just one more round of Surya Namaskar&amp;rsquo; You said that on the last round!
 Standing at the front edge of the mat, exhausted from the one more round you just completed. You can feel the beads of sweat starting to make their way down your forehead.</description>
@@ -153,48 +162,48 @@ Standing at the front edge of the mat, exhausted from the one more round you jus
     
     <item>
       <title>Yoga Fundamentals: Samskara</title>
-      <link>/yoga/yoga-fundamentals-samskara/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/yoga-fundamentals-samskara/</link>
       <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/yoga-fundamentals-samskara/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/yoga-fundamentals-samskara/</guid>
       <description>The Sage, Patanjali, talks of thought-waves or vritti as one of the fundamental parts of our Hatha Yoga practice. Every time we let a thought through the mind, it sets a wave which passes unhindered through our psyche. But the wake of the wave not only continues long after the initial wavefront passes, but builds up in the mind what is called Samskaras. The Samskara is the residual build up of numerous thought-waves over long periods of time.</description>
     </item>
     
     <item>
       <title>A to Z of Yoga : A is for Ashtanga!</title>
-      <link>/yoga/a-is-for-ashtanga/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/a-is-for-ashtanga/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/a-is-for-ashtanga/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/a-is-for-ashtanga/</guid>
       <description>First post of a new series! Here&amp;rsquo;s the idea. We&amp;rsquo;ll go through the alphabet picking a yoga related topic for each letter. I&amp;rsquo;ll pick a few related words. Over time we&amp;rsquo;ll build up a sort of yoga dictionary. Amazing. Let&amp;rsquo;s start with A. Ashtanga Ashtanga is a style of yoga developed by yogi, fitness guru, and sadist K. Pattabhi Jois in &amp;lsquo;the late 20th century&amp;rsquo; according to Wikipedia. The practice is centred around The Primary Series which is a predefined set of poses held for a set amount of breaths each.</description>
     </item>
     
     <item>
       <title>Why I&#39;m a Vegetarian</title>
-      <link>/yoga/why-im-a-vegetarian/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/why-im-a-vegetarian/</link>
       <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/why-im-a-vegetarian/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/why-im-a-vegetarian/</guid>
       <description>well, it fits the rest of the image, doesn&amp;rsquo;t it?
 i&amp;rsquo;ve been vegetarian since august 2014. not very long relatively, but long enough to have made my mind up about whether or not i&amp;rsquo;m sticking to it. the following is what i make of it all. a bit technical, to start humanity is at a point where we know exactly what the body needs and doesn&amp;rsquo;t need. there are recommended intake figures for everything, for example, b12 measured in the micrograms (2.</description>
     </item>
     
     <item>
       <title>On Dropping Everything for Yoga</title>
-      <link>/yoga/on-dropping-everything-for-yoga/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/on-dropping-everything-for-yoga/</link>
       <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/on-dropping-everything-for-yoga/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/on-dropping-everything-for-yoga/</guid>
       <description>Drop Everything. Last week I was having a conversation with a wonderful future teacher currently in teacher training, she said (with laughter) that it seems yoga is all that she does now! That it felt like there was no down time for anything else.
 I remember during my own teacher training there were periods of time where there was seemingly nothing else than yoga practice and yoga study (and that was even with a day-job to worry about).</description>
     </item>
     
     <item>
       <title>On Teaching Yoga</title>
-      <link>/yoga/on-teaching-yoga/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/on-teaching-yoga/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/on-teaching-yoga/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/on-teaching-yoga/</guid>
       <description>Feelings on being a yoga teacher. A little more personal. A constantly changing topic, and a list which is constantly being added to. This is the first in a series of &amp;ldquo;diary&amp;rdquo; like posts on the subject. I&amp;rsquo;ll try to keep some themes/stats running as a constant.
 Dear Diary, Classes taught since I&amp;rsquo;ve qualified: 63
 Individuals taught: No idea really, probably a couple of hundred at least
@@ -203,39 +212,39 @@ Most difficult thing since starting teaching: Teaching yoga is definitely not wi
     
     <item>
       <title>Chanting</title>
-      <link>/yoga/chanting/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/chanting/</link>
       <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/chanting/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/chanting/</guid>
       <description>If you winced, or rolled your eyes, having seen the title, this is for you. I’m certain someone will have! If you struggle with the idea of going to a yoga class and being forced against your will to chant foreign words along with the rest of the class, this is for you.
 When human’s make a simple sound together, it harks back to a time of primal existence. Every culture that’s ever existed has understood their own form of making sound together, as a group.</description>
     </item>
     
     <item>
       <title>Yoga, the FAQ</title>
-      <link>/yoga/yoga-the-faq/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/yoga-the-faq/</link>
       <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/yoga-the-faq/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/yoga-the-faq/</guid>
       <description>Here are the questions I’ve heard most often when talking to people about starting a yoga practice. Do I need to be flexible? The physical bit of your yoga class is about working out where your body is today, not where it’s been, and not where it’s going. I often remind my students to have a check in with their body before they start to move, does anything feel different to the last time you were in relaxation?</description>
     </item>
     
     <item>
       <title>It&#39;s Probably Okay, To Say No More Often</title>
-      <link>/yoga/its-probably-ok-to-say-no-more-often/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/its-probably-ok-to-say-no-more-often/</link>
       <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/its-probably-ok-to-say-no-more-often/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/its-probably-ok-to-say-no-more-often/</guid>
       <description>The Invite. Hyper-connected, we receive invitations, sometimes in advance but often ad-hoc. Drinks tonight, dinner tomorrow. Come to that yoga class with me later, and we’ll do ParkRun 9AM tomorrow morning.
 Isn’t it tiring? Not the events themselves, no*, but the frequency and immediacy of it all. It can be minutes between seeing the event, and being expected to attend. Winter. We are just over the peak, and it’s cold. Especially during Winter we’re programmed to rest and switch off, even just a little, and go to bed earlier, curl up, and eat more!</description>
     </item>
     
     <item>
       <title>Why I Started Yoga</title>
-      <link>/yoga/why-i-started-yoga/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/why-i-started-yoga/</link>
       <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/why-i-started-yoga/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/why-i-started-yoga/</guid>
       <description>This is the question that get’s asked in the five minutes before class.
 ‘Why did you start yoga, then?’
 I had forgotten how to sit on the floor. That’s my answer. There’s no telling when such a thing might have happened. No doubt it’s over a long period of time one loses such a skill.
@@ -244,38 +253,38 @@ I remember sitting on the floor when I was much younger, reading books on the fl
     
     <item>
       <title>On Competition in Yoga Class</title>
-      <link>/yoga/on-competition-in-in-yoga-class/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/on-competition-in-in-yoga-class/</link>
       <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/on-competition-in-in-yoga-class/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/on-competition-in-in-yoga-class/</guid>
       <description>Competition in yoga is a difficult one for me, something I&amp;rsquo;ve found a challenge from day one. Often there&amp;rsquo;s not a single other male in my regular class, and I know it sounds so Neanderthal and not at all 21st century but it completely changes my practice when one does show up. I begin striving to push harder and hold longer than my opponents. I write these posts to remind myself of where I can improve as much as anything.</description>
     </item>
     
     <item>
       <title>Proof in Positivity</title>
-      <link>/yoga/proof-in-positivity/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/proof-in-positivity/</link>
       <pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/proof-in-positivity/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/proof-in-positivity/</guid>
       <description>Recently, the yoga class I regularly attend had a newcomer. Without knowing it she proved something to me about where positivity comes from and how to keep hold of it.
 This girl had clearly been dragged there by her very keen and skinny friend. This class is one with an &amp;lsquo;advanced&amp;rsquo; label but our practice varies a lot. So this newcomer was a bit overweight. Nevertheless, she was putting at least as much effort in as anyone else.</description>
     </item>
     
     <item>
       <title>Svadhyaya, Santosha, and Instagram</title>
-      <link>/yoga/svadhyaya-santosha-and-instagram/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/svadhyaya-santosha-and-instagram/</link>
       <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/svadhyaya-santosha-and-instagram/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/svadhyaya-santosha-and-instagram/</guid>
       <description>I&amp;rsquo;d like to talk about Instagram, and where it fits with my yoga practice. Of course, Instagram certainly isn&amp;rsquo;t a traditional method of yoga practice, but we work with what we&amp;rsquo;ve got. Particularly I&amp;rsquo;d like to talk about whether there are benefits in Instagram, when held agains some of the traditional yoga teachings, in this case Svadhyaya and Santosha. Instagram I joined Instagram as a direct result of hearing about its vibrant yoga scene.</description>
     </item>
     
     <item>
       <title>On New Years Resolution and Tapas</title>
-      <link>/yoga/on-new-years-resolution-and-tapas/</link>
+      <link>http://d27j66pmjudaqa.cloudfront.net/yoga/on-new-years-resolution-and-tapas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/yoga/on-new-years-resolution-and-tapas/</guid>
+      <guid>http://d27j66pmjudaqa.cloudfront.net/yoga/on-new-years-resolution-and-tapas/</guid>
       <description>Many of us are bound to set a New Years resolution at some point, and no doubt some of those will be to adopt a daily Yoga practice. In observing this societal tradition myself I considered how this commitment to daily practice fits with the Niyama-Tapas.
 Tapas is often translated to something along the lines of self-discipline. In Patanjali&amp;rsquo;s Yoga sutras we see Tapas broken into three main categories. Austerity, study, and the dedication of ones efforts to Yoga.</description>
     </item>
