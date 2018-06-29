@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://d27j66pmjudaqa.cloudfront.net/posts/catch/</loc>
+    <lastmod>2018-06-29T21:21:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://d27j66pmjudaqa.cloudfront.net/posts/parents/</loc>
+    <lastmod>2018-06-28T21:21:56+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://d27j66pmjudaqa.cloudfront.net/posts/granddad/</loc>
     <lastmod>2018-06-26T21:29:52+01:00</lastmod>
   </url>
@@ -144,12 +154,18 @@
   
   <url>
     <loc>http://d27j66pmjudaqa.cloudfront.net/tags/blog/</loc>
-    <lastmod>2018-06-26T21:29:52+01:00</lastmod>
+    <lastmod>2018-06-29T21:21:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://d27j66pmjudaqa.cloudfront.net/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://d27j66pmjudaqa.cloudfront.net/tags/diary/</loc>
+    <lastmod>2018-06-29T21:21:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -165,19 +181,19 @@
   
   <url>
     <loc>http://d27j66pmjudaqa.cloudfront.net/posts/</loc>
-    <lastmod>2018-06-26T21:29:52+01:00</lastmod>
+    <lastmod>2018-06-29T21:21:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://d27j66pmjudaqa.cloudfront.net/</loc>
-    <lastmod>2018-06-26T21:29:52+01:00</lastmod>
+    <lastmod>2018-06-29T21:21:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://d27j66pmjudaqa.cloudfront.net/tags/</loc>
-    <lastmod>2018-06-26T21:29:52+01:00</lastmod>
+    <lastmod>2018-06-29T21:21:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   

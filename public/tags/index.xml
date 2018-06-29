@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Sam Carter Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 26 Jun 2018 21:29:52 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jun 2018 21:21:45 +0100</lastBuildDate>
     
 	<atom:link href="http://d27j66pmjudaqa.cloudfront.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Blog</title>
       <link>http://d27j66pmjudaqa.cloudfront.net/tags/blog/</link>
-      <pubDate>Tue, 26 Jun 2018 21:29:52 +0100</pubDate>
+      <pubDate>Fri, 29 Jun 2018 21:21:45 +0100</pubDate>
       
       <guid>http://d27j66pmjudaqa.cloudfront.net/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diary</title>
+      <link>http://d27j66pmjudaqa.cloudfront.net/tags/diary/</link>
+      <pubDate>Fri, 29 Jun 2018 21:21:45 +0100</pubDate>
+      
+      <guid>http://d27j66pmjudaqa.cloudfront.net/tags/diary/</guid>
       <description></description>
     </item>
     
