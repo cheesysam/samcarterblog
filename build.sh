@@ -9,4 +9,4 @@ aws s3 cp ./public/ s3://samcarterblog --recursive --grants read=uri=http://acs.
 printf ""
 sleep 3
 printf ""
-aws cloudfront create-invalidation --distribution-id E38IQPAR031UV5 --paths /*
+aws cloudfront create-invalidation --distribution-id E38IQPAR031UV5 --paths "/*"
