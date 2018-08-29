@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Sam Carter Blog</title>
-    <link>http://d27j66pmjudaqa.cloudfront.net/tags/blog/</link>
+    <link>/tags/blog/</link>
     <description>Recent content in Blog on Sam Carter Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 29 Jun 2018 21:21:45 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Aug 2018 20:55:21 +0100</lastBuildDate>
     
-	<atom:link href="http://d27j66pmjudaqa.cloudfront.net/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Flights</title>
+      <link>/posts/flights/</link>
+      <pubDate>Tue, 14 Aug 2018 20:55:21 +0100</pubDate>
+      
+      <guid>/posts/flights/</guid>
+      <description>One of the short stories in this book tells of a university progessor, who collects naked photographs of his female students. Particularly photos of their vaginas captured close up from ground level. Reading this is impossible without vividly picturing the resultant photos. The professor in these scenes is naked too, and as a result the girls are excited as he is.
+These situations must happen in real life. And don&amp;rsquo;t they sound fantastic!</description>
+    </item>
+    
+    <item>
       <title>Catch</title>
-      <link>http://d27j66pmjudaqa.cloudfront.net/posts/catch/</link>
+      <link>/posts/catch/</link>
       <pubDate>Fri, 29 Jun 2018 21:21:45 +0100</pubDate>
       
-      <guid>http://d27j66pmjudaqa.cloudfront.net/posts/catch/</guid>
+      <guid>/posts/catch/</guid>
       <description>We ate outside, discussing species of tree. The helicopter ones, and the ones they have in Japan. We prolonged it somewhat, on account of the heat. The afternoon went quickly, we chatted a lot more than we usually get away with.
 At home I played catch with one of the three boys. He’s got a good throw. I had to change clothes before and after due to the heat.
 Later on, our landlords had guests visiting, a mother and daughter.</description>
@@ -24,29 +34,29 @@ Later on, our landlords had guests visiting, a mother and daughter.</description
     
     <item>
       <title>Parents</title>
-      <link>http://d27j66pmjudaqa.cloudfront.net/posts/parents/</link>
+      <link>/posts/parents/</link>
       <pubDate>Thu, 28 Jun 2018 21:21:56 +0100</pubDate>
       
-      <guid>http://d27j66pmjudaqa.cloudfront.net/posts/parents/</guid>
+      <guid>/posts/parents/</guid>
       <description>It’s disappointing how dictated it is that one will end up like their parents. I struggle to accept that all traits persist. I hope the really irritating things disappear altogether. I really hope they don’t skip a generation.</description>
     </item>
     
     <item>
       <title>Granddad</title>
-      <link>http://d27j66pmjudaqa.cloudfront.net/posts/granddad/</link>
+      <link>/posts/granddad/</link>
       <pubDate>Tue, 26 Jun 2018 21:29:52 +0100</pubDate>
       
-      <guid>http://d27j66pmjudaqa.cloudfront.net/posts/granddad/</guid>
+      <guid>/posts/granddad/</guid>
       <description>There was no tragedy in Granddad&amp;rsquo;s death. No shock in it&amp;rsquo;s happening, not was anybody anything but impressed by his ability to live in his own home until such an old age. It happened over the course of about 6 weeks. The lung cancer diagnosis, followed by infection. For a period of time it was considered he would have radiotherapy, but that decision was reversed when quickly became worse.
 I saw him twice during that time.</description>
     </item>
     
     <item>
       <title>Robbie</title>
-      <link>http://d27j66pmjudaqa.cloudfront.net/posts/robbie/</link>
+      <link>/posts/robbie/</link>
       <pubDate>Sat, 16 Jun 2018 21:29:27 +0100</pubDate>
       
-      <guid>http://d27j66pmjudaqa.cloudfront.net/posts/robbie/</guid>
+      <guid>/posts/robbie/</guid>
       <description>To open the 2018 World Cup, Russia hired Robbie Williams to perform at the ceremony. During the broadcast he gave the camera a cheeky middle finger. In the USA Fox News had to apologise to it&amp;rsquo;s viewers for streaming this atrocity live. In the UK we published the picture on the front page of our newspapers.</description>
     </item>
     
