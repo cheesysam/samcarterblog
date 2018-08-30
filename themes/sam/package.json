@@ -16,8 +16,8 @@
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "autoprefixer": "^8.5.1",
-    "chokidar-cli": "^1.2.0",
-    "node-sass": "^4.9.0",
+    "chokidar-cli": "^1.2.1",
+    "node-sass": "^4.9.3",
     "postcss": "^6.0.22",
     "postcss-cli": "^5.0.0",
     "pug-cli": "^1.0.0-alpha6"
